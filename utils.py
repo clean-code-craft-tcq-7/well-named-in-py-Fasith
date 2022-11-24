@@ -1,4 +1,4 @@
-from config import MAJOR_COLORS, MINOR_COLORS
+from color_coder_constants import MAJOR_COLORS, MINOR_COLORS
 from prettytable import PrettyTable
 
 
